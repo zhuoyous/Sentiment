@@ -16,12 +16,11 @@ Project Structure:
 - records.csv                : Combined stock sentiment & VWAP dataset
 - stock_list.csv             : Ticker list used in analysis
 - stock_list.npy             : Serialized NumPy list of stocks
-- vwap_2022_2023.csv         : Historical VWAP data
 
 Project Highlights:
 -------------------
 - Automated Data Collection using Yahoo Finance and news sources
-- GPT-Powered Sentiment Scoring on financial news headlines
+- GPT-Powered Sentiment Scoring on financial news content
 - VWAP Trend Modeling to study price movement correlation
 - Statistical Testing (ANOVA, correlation) for validation
 - Machine Learning Models: Logistic Regression, XGBoost, Random Forest
@@ -36,7 +35,7 @@ Usage:
 
 Results Summary:
 ----------------
-- Achieved up to 66% accuracy predicting stock direction using VWAP and sentiment.
+- Achieved up to around 70% accuracy predicting stock direction using VWAP and sentiment.
 - Sentiment shows predictive power over VWAP level, more than VWAP return.
 - ANOVA and correlation tests confirm the significance of sentiment signals.
 
