@@ -11,7 +11,7 @@ Project Structure:
 - three_stock_analysis.ipynb : Case study on 3 selected stocks
 - stock_list_generation.ipynb: Ticker list creation and filtering logic
 - test_yahoo_data crawler.ipynb : Yahoo Finance data fetcher
-- test_news_crawler.ipynb    : News headline collection with GPT sentiment
+- test_news_crawler.ipynb    : News content collection with GPT sentiment
 - test_daily_update.ipynb    : Scheduled data update prototype
 - records.csv                : Combined stock sentiment & VWAP dataset
 - stock_list.csv             : Ticker list used in analysis
