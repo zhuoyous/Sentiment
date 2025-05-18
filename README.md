@@ -19,7 +19,7 @@ Project Structure:
 
 Project Highlights:
 -------------------
-- Automated Data Collection using Yahoo Finance and news sources
+- Automated Data Collection using Yahoo Finance, polygon, and eodhd apis
 - GPT-Powered Sentiment Scoring on financial news content
 - VWAP Trend Modeling to study price movement correlation
 - Statistical Testing (ANOVA, correlation) for validation
